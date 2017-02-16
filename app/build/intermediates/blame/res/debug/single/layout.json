@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/amu_info_window.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/amu_text_bubble.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/res/layout/amu_text_bubble.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/amu_webview.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/res/layout/amu_webview.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/ln-149/5E94123E9412195B/Rak_Projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ln-149/Desktop/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    }
+]
